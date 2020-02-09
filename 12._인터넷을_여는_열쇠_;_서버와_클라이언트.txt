@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-10T01:25:32+09:00
+
+====== 12. 인터넷을 여는 열쇠 ; 서버와 클라이언트 ======
+Created 월요일 10 2월 2020
+
+   <client>						<server>
+Web Browser ---------(Internet)--------- Web Server
+							HW : index.html
+							
+							주소 : http://info.cern.ch
+
+* Web Browser가 설치되어 있는 컴퓨터에 http://info.cern.ch/index.html 을 치면 인터넷을 통해서 http://info.cern.ch 주소를 가지고 있는 컴퓨터에 전기신호를 보냄, index.html을 보고싶다는 내용의 신호를 보냄

@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T22:18:07+09:00
+
+====== 9. HTML 태그의 제왕 ======
+Created 일요일 09 2월 2020
+
+--------------------
+	<a> ; anchor (닻)
+		기능 : Link
+--------------------
+
+**<a href="https://www.w3.org/TR/html51/" target="_blank" title="html5 specification">**Hypertext Markup Language (HTML)**</a>** is the standard markup language for documents designed to be displayed in a web browser.
+
+* 내가 링크를 넣고 싶은 곳에 <a></a> 삽입
+* __href="(링크주소...)"__ ; 원하는 링크로 이동
+* __target="_blank"__ ; 클릭했을 때 새 탭으로 연결
+* __title="(보이고싶은내용...)"__ ; 열기전에 마우스 올리면 무슨 내용인지 보이게 해줌 (툴팁 생성)

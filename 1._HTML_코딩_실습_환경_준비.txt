@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T17:43:42+09:00
+
+====== 1. HTML 코딩 실습 환경 준비 ======
+Created 일요일 09 2월 2020
+
+* 준비물 : 웹 브라우저, 에디터(코드를 작성하기 위한 프로그램) ; 난 'Sublime Text'
+* 바탕화면에 디렉토리 만들기(프로젝트 폴더임) ; 난 'web'이라고 만듦
+* 에디터를 열고 File > Open Folder > (프로젝트 폴더)
+* 왼쪽 폴더 tree창에서 폴더 선택 후 오른쪽 마우스 클릭 > New File
+* 1.html 이라고 적고 저장하면 web 폴더 밑에 1.html 파일 생성됨
+* 생성된 1.html 파일 열면 웹브라우저 창 뜸
+* Sublime Text에서 hello web 이라고 치고 저장 후 1.html 웹브라우저 새로고침하면 hello web 이 뜸

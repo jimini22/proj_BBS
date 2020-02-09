@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-10T01:59:24+09:00
+
+====== 14. 웹서버 운영하기 ======
+Created 월요일 10 2월 2020
+
+https://opentutorials.org/course/3084/18892

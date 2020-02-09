@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T19:31:48+09:00
+
+====== 6. 최후의 문법 속성과 img ======
+Created 일요일 09 2월 2020
+
+1. web page에 image를 넣어보까~?
+	* <img src="coding.jpg" width="100%">
+
+--------------------
+	cf) 무료 이미지
+		* https://unsplash.com/
+--------------------
+
+	* <img __src="coding.jpg"__ __width="100%"__>
+		노란색으로 표시한 부분은 '속성(Attribute)'라고 한다
+		
+

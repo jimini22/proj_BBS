@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T22:32:26+09:00
+
+====== 10. 웹사이트 완성 ======
+Created 일요일 09 2월 2020
+
+* 기획
+{{.\pasted_image.png}}
+	상단 WEB 을 클릭하면 index.html 로 연결 (Welcome Page)
+	각각 HTML, CSS, JavaScript 를 클릭하면 1.html, 2.html, 3.html 나오도록 연결
+	
+* 구현
+
+	<h1>**<a href="index.html">**WEB</a></h1>
+	<ol>
+		<li>**<a href="1.html">**HIML</a></li>
+		<li>**<a href="2.html">**CSS</a></li>
+		<li>**<a href="3.html">**JavaScript</a></li>
+	</ol>
+	
+	* web폴더에 index.html, 1.html, 2.html, 3.html 만들기
+	* 각 화면에 맞는 페이지 만들고 위의 링크 걸고 확인
+

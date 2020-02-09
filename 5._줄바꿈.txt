@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T19:21:30+09:00
+
+====== 5. 줄바꿈 ======
+Created 일요일 09 2월 2020
+
+1. html new line tag
+	* <br>
+	* 단순 줄바꿈으로 닫는 태그가 없음
+2. html paragraph tag
+	* <p></p>
+	* 한 단락을 나타내므로 닫는 태그가 있음
+
+--------------------
+	cf) CSS에서 여백을 나타내는 tag가 있다
+		* <p **style="margin-top:40px;"**> ; tag와 tag사이의 여백 (위에 여백을 주고 싶으면 top)
+--------------------
+

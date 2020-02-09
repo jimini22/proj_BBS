@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-10T01:10:26+09:00
+
+====== 11. 원시웹 ======
+Created 월요일 10 2월 2020
+
+* info.cern.ch
+* home of the first website
+
+Internet ---- web
+ 1960	1990

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T19:10:44+09:00
+
+====== 4. 통계에 기반한 학습 ======
+Created 일요일 09 2월 2020
+
+* 전세계 웹페이지를 기반으로 통계를 보여주는 사이트
+	https://www.advancedwebranking.com/html/
+* html tag는 약 150개
+* 난이도 있는 것만이 꼭 중요한 것은 아니다

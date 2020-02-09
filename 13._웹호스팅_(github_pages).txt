@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-10T01:34:45+09:00
+
+====== 13. 웹호스팅 (github pages) ======
+Created 월요일 10 2월 2020
+
+* internet이 연결되어 있는 컴퓨터 한대한대를 host라 한다
+* web server를 운영하기 위한 컴퓨터, 호스트를 빌려주는 회사를 web hosting 업체라고 한다
+
+* 수많은 web hosting 업체들이 있는데 나는 github 라고 하는 서비스를 이용
+* 홈페이지를 만들수 있게 해주는 web server를 무료로 제공함
+
+* repository 는 저장소라는 의미 ; 파일을 보관해주는 용도
+* repository 에 작업한 파일 업로드
+
+* github을 통해 web server 이용
+	* github > settings > GitHub Pages > Source
+	* none > master branch > save
+	* 기다렸다가 다시 GitHub Pages 부분을 보면 웹 사이트 주소가 나옴
+
+* github 같은 web hosting 업체들...
+* 검색 : free static web hosting
+* www.bitballoon.com
+* neocities.org
+* amazon s3
+* google cloud storage
+* azure blob

@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T18:07:22+09:00
+
+====== 2. 기본 문법 - 태그 ======
+Created 일요일 09 2월 2020
+
+1. 글자 진하게 표시하기
+	* <strong></strong>
+2. 글자 밑줄 표시하기
+	* <u></u>
+
+* TAG ; 설명해주는 역할

@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T21:00:25+09:00
+
+====== 8. 문서의 구조와 슈퍼스타들 ======
+Created 일요일 09 2월 2020
+
+--------------------
+	<html>, <head>, <body>, <title>, <meta>
+--------------------
+
+--------------------
+* <title></title> ; 웹페이지의 제목을 명시적으로 알려줌
+* <meta __charset="utf-8"__> ; 웹페이지에서 보여줄 때, utf-8 형식으로 보여줌
+	노란색 표시는 글자형식을 utf-8형식으로 읽으라고 웹브라우저한테 얘기해준거
+--------------------
+
+<!DOCTYPE html>			// 이 문서는 html안에 있다 (관용적표현)
+<html>
+**<head>**
+	<title>WEB1 - html</title>
+	<meta charset="utf-8">	[[//]] 아래 본문을 설명하는 태그는 <head></head> 태그로 묶는다
+**</head>**
+
+**<body>					**// 아래 본몬은 <body></body> 태그로 묶는다
+	<ol>
+		<li>HIML</li>
+		<li>CSS</li>
+		<li>JavaScript</li>
+	</ol>
+	<h1>HTML이란 무엇인가</h1>
+	<p><u>Hypertext Markup Language</u> <strong>(HTML)</strong> is the standard markup language for documents designed to be displayed in a web browser.</p>
+	<img src="coding.jpg" width="100%">
+	<p style="margin-top: 40px">It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.</p>
+**</body>**
+</html>
